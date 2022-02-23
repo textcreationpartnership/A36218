@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiritual community vindicated amongst people of different perswasions in some things</title>
+            <author>Docwra, Anne, 1624-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36218</idno>
+            <idno type="STC">Wing D1781</idno>
+            <idno type="STC">ESTC R30294</idno>
+            <idno type="EEBO-CITATION">11285338</idno>
+            <idno type="OCLC">ocm 11285338</idno>
+            <idno type="VID">47293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47293)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1459:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Spiritual community vindicated amongst people of different perswasions in some things</title>
+                  <author>Docwra, Anne, 1624-1710.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed at end: April 1687 ; Ann Docwra.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the Bevan-Naish Collection.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47293:1"/>
+            <!-- PDF PAGE 49 -->
+            <pb n="1" facs="tcp:47293:1"/>
+            <!-- PDF PAGE 49 -->
+            <head>Spiritual Community, vindicated amongſt people of different perſwaſions in ſome things.</head>
+            <p>ALL thoſe that place the Bond of their Community in the Univerſal Light, or Spirit of Grace, which is an inward principle of the Di<g ref="char:EOLhyphen"/>vine Life, whereby all good people governs their Actions; they have a witneſs in every mans Conſcience, that witneſs for God that their hearts are right towards him; this Divine Principle is in ſome mea<g ref="char:EOLhyphen"/>ſure in all Mankind, although many regards it not, but ſlights the day of Gods Viſitation, but thoſe that are guided by it, have Unity and Spiritual Community, with the leaſt meaſure of grace that appears in the Lives and Converſations of any perſon, or perſons, whereſoever it appears: This Divine Principle is ſufficient to preſerve a Nation, or People in Peace, if men would regard it; this is an Infallible guide, all things have failed and will fail, the ſeveral forms and orders of Religious people breaks not the community of a Nation or People in publick concerns; if they be governed by this Divine Principle, not placing the Bond of their Community in ſuch Forms and Ceremonies as are the preſcriptions of men; to the damage of others by impoſing them; all outward Impoſitions of Divine Worſhip towards God, were under the firſt Covenant (to the Heb. 9. <hi>Jews</hi> only) and made not the comers thereunto perfect as pertaining to Conſcience.</p>
+            <p>But too many have placed the Bond of their Community in the wrong thing or things, to the damage of others, ſome in Church Traditions, and the ſevere Opinions or Expoſitions of the Fathers, whereby great diſtenſi<g ref="char:EOLhyphen"/>on have aroſe amongſt themſelves in many Ages, followed on by a ſeparation and perſecuting one another: ſome place the Bond of their Community in their Church Faith and Directories, others in the Penal Statutes and Eccle<g ref="char:EOLhyphen"/>ſiaſtical Laws made againſt Diſſenters, for the upholding their Church Litur<g ref="char:EOLhyphen"/>gy, and all theſe have proceeded as formerly, by Perſecution to uphold the greatneſs of their worldly Profeſſion, or covetous Coloſ. 3. Self-intereſt, which is Idolatry.</p>
+            <p>Yet there are perſons of ſeveral different perſwaſions that are not to be blamed, becauſe they have been true to their Principle in an innocent friend<g ref="char:EOLhyphen"/>ly Converſation, uſing their outward forms or ceremonies as if they uſed
+<pb n="2" facs="tcp:47293:2"/>
+               <!-- PDF PAGE 50 -->
+them not, not placing the Bond of their Community in them, to the da<g ref="char:EOLhyphen"/>mage of any that were not in the ſame conformity with them; many of theſe have been ſerviceable in their day and generation, being moved to it by an inward ſenſe of the love of God in their hearts, which have extended it ſelf through them unto others of different perſwaſions from them, and have been a help and relief to many in ſuffering times, which are the times of trial and diſcovery of the Spirits of all Mankind.</p>
+            <p>But to prevent the continuance of former miſcarriages, the King hath been graciouſly pleaſed to ſet forth his Declaration of Liberty to all peace<g ref="char:EOLhyphen"/>able People, to ſerve God publickly according to their ſeveral perſwaſions; this is Gods own work which he hath put in the Kings heart, and is a cer<g ref="char:EOLhyphen"/>tain way to root out Hypocriſie and ſelf ended worldly profeſſion out of the Kingdom: May he live and proſper in this good work, and by the help of Divine Providence bring it to ſome perfection, for no Nation or People can be really happy where an intire Liberty is not granted to all peaceable peo<g ref="char:EOLhyphen"/>ple; forcing mens Conſciences makes Hypocrites, it is Divine Love and Charity that brings a Nation or People into ſuch Unity as to love God above all, and their Neighbour as themſelves.</p>
+            <p>It is likely that many are diſſatisfied with this Declaration, and the Kings Suſpending the Penal Statutes againſt Diſſenters, but let them examine the ground from whence ſuch diſſatisfaction do ariſe, it is not from the love of God in their hearts, but from the love of the World, fears and doubts ariſing in their minds that they may looſe ſome of their worldly profits and enjoyments, or that the greatneſs of their profeſſion may be clouded or detected; Chriſtianity teacheth us to part with all for Chriſt, and to take up the Croſs and follow him, I do not mean an outward Croſs of Silver, Gold, Wood, or Stone, or any ſuch like thing, but to come into Unity with that Divine Principle which croſſeth that nature in themſelves that leads them into ſin, it is that corrupt nature that ſeparates man from the true knowledge of God, and leadeth him either into impious preſumption, or into fears, doubts, and diſtruſt of Gods mercies to him, to profeſs Chriſtianity, and to deny the Croſs is but mocking of God, and deceiving themſelves.</p>
+            <p>All worldly profeſſors that place the Bond of their Community in their Church Liturgy, or any other preſcription of man, to the damage of others, let them know, that their foundation is ſandy, and will not ſtand in a day of tryal, if they ſhould come to want liberty themſelves their mouths will he ſtopt from complaining, they can have nothing to ſay for themſelves that would not allow it to others; the Penal Statutes made againſt Diſſenters up<g ref="char:EOLhyphen"/>on the account of Religion, are but ſuperficial Laws made for the preſent imaginaries of State, and holds no longer than the reaſon of them holds, the Kings Declaration ſhows a ſufficient reaſon to ſuſpend them to ſatisfie any unbiaſſed perſon or perſons whatſoever, that prefer the publick Peace
+<pb n="3" facs="tcp:47293:2"/>
+               <!-- PDF PAGE 50 -->
+above Self-intereſt: It is no new thing for Kings to Suſpend ſuperficial Laws, or lay them aſide without Repeals, there may be found in the Old Statute Book divers. Statutes that are out of uſe, yet never Repealed, only Suſpend<g ref="char:EOLhyphen"/>ed or laid aſide, and not without good reaſon.</p>
+            <p>Laws have been ſo mul<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>plyed againſt Diſſenters from the Church of <hi>England</hi> that they claſh one againſt another; ſome Statutes are to compel people to come to Church, others are to Excommunicate them from it; there are Statutes alſo to make upon the ſame account, for Impriſoning them and ſpoiling them of their outward Eſtates, if they ſerve God publickly, in any other place but the National Church, although they be Excommunica<g ref="char:EOLhyphen"/>ted from her, and ſhe her ſelf profeſſes in her Common Prayer, that the Service of God is perfect freedom, and that we ought at all times, and in all places, to give thanks to God for the great benefits received at his hands, <hi>&amp;c.</hi> Yet all theſe aforeſaid Statutes were ſeverely proſecuted againſt Diſſenters, ſo that a very great number of innocent people that would not turn Hypo<g ref="char:EOLhyphen"/>crits and conform to them, contrary to their judgments, were expoſed to cruel Sufferings by a long grinding Perſecution that have continued many years, ſo that the nature of Chriſtianity was quite excluded from amongſt the moſt Active men in Power, and their Adherence. This is ſufficient to ſtop the mouths of all thoſe that are diſſatisfied with the Kings Declaration, and Suſpending the Penal Statutes made againſt Diſſenters from the Church of <hi>England.</hi>
+            </p>
+            <p>To conclude, The blindneſs and ignorance have been great amongſt ſome people in power, that they accounted all their own, and foreſaw no danger or day of reckoning, or rendring an account of their actions, ei<g ref="char:EOLhyphen"/>ther to God, or Man; their ignorance and blindneſs will be no excuſe for them, every one muſt render an account of their deeds, whether they be good or evil; yet it is beneath the Nobility of any true Chriſtian to ſeek re<g ref="char:EOLhyphen"/>venge, or to lay them publickly open any further than may be for the pre<g ref="char:EOLhyphen"/>ſervation of the Peace of the Kingdom for the future, that the Poor, the Widdow, and the Fatherleſs, or any other perſons whatſoever, may no more be made a Prey to Vain-glorious and Self-ended worldly Profeſſors, or profane perſons alſo, that makes uſe of Religion for a decoy to catch the World; theſe ought to be publickly detected, that all peaceable people may have reſt, and ſit down under their own Vine, and under their own Fig-Tree, ſerving God according to their ſeveral perſwaſions, every one preferring the publick Peace above their own worldly intereſts, which are my deſires to God for them all, having nothing but love in my heart for the whole Creation, and do Travel for their Redemption from the Bondage of Corruption.</p>
+            <pb n="4" facs="tcp:47293:3"/>
+            <!-- PDF PAGE 51 -->
+            <epigraph>
+               <q>
+                  <l>Our God is Love, So they that be</l>
+                  <l>In love with him, their faults may ſee;</l>
+                  <l>And pittying their unhappy ſtate,</l>
+                  <l>Shew them their Sin e're 'tis too late,</l>
+                  <l>That true Repentance they may find</l>
+                  <l>Like Balm to cure their troubled mind.</l>
+               </q>
+            </epigraph>
+            <closer>
+               <dateline>Given forth <date>in the Second Month, called <hi>April,</hi> 168<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date>
+               </dateline>
+               <signed>Ann Docwra.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:47293:3"/>
+            <!-- PDF PAGE 51 -->
+         </div>
+      </body>
+   </text>
+</TEI>
